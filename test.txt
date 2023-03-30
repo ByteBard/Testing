@@ -1,1 +1,7 @@
 init
+feature-1 commit 01
+feature-1 commit 02
+feature-1 commit 03
+
+
+new squash override
