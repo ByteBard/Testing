@@ -5,3 +5,7 @@ feature-1 commit 03
 
 
 new squash override
+1st update
+2nd update
+
+3nd update
